@@ -1,4 +1,6 @@
-// Mateus de Souza (U93384434)
+// Mateus de Souza
+
+To run reader/writer codes:
 
 Launch a terminal in the project's root directory.
 Run the "make" command.
